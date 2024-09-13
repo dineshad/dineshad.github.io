@@ -1,5 +1,15 @@
 .playground{
-  width:400px ;
-  height: 500px ;
+  width:954px ;
+  height: 585px ;
+  border-radius: 10% 50% 20% 50% / 10% 50% 50% 50%;
   background-color: lightgreen ;
+  
+  /*
+  margin:
+  padding
+  font-family:Arial;sans-serif
+  font-size:20 px
+  font-weight: bold;
+  border:3px solid color:black;
+  */
 }
